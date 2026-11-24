@@ -1,0 +1,601 @@
+emp_id,department,level,tenure_years,location,satisfaction,performance,left_wave1,left_wave2
+E0001,Engineering,Senior,7.7,Onsite,1.93,3.65,False,False
+E0002,Engineering,Junior,4.4,Hybrid,4.06,4.34,False,False
+E0003,Engineering,Senior,1.2,Onsite,2.17,3.16,True,False
+E0004,Engineering,Mid,1.3,Remote,3.75,4.87,False,False
+E0005,Engineering,Junior,11.6,Onsite,2.79,2.86,False,False
+E0006,Engineering,Manager,1.6,Hybrid,2.57,2.66,False,False
+E0007,Engineering,Mid,4.0,Onsite,3.15,2.35,False,False
+E0008,Engineering,Senior,0.6,Hybrid,3.35,4.83,False,False
+E0009,Engineering,Junior,2.4,Hybrid,2.98,3.77,False,False
+E0010,Engineering,Mid,5.9,Hybrid,3.97,2.97,False,False
+E0011,Engineering,Junior,0.5,Onsite,3.14,4.07,True,False
+E0012,Engineering,Senior,2.1,Remote,4.28,3.68,False,False
+E0013,Engineering,Mid,2.0,Hybrid,3.72,4.58,False,True
+E0014,Engineering,Senior,4.9,Hybrid,2.94,2.12,False,False
+E0015,Engineering,Junior,4.6,Remote,2.81,3.01,False,False
+E0016,Engineering,Junior,4.9,Remote,2.18,2.88,False,False
+E0017,Engineering,Mid,4.0,Onsite,3.73,1.82,False,False
+E0018,Engineering,Junior,4.6,Onsite,3.22,3.94,False,False
+E0019,Engineering,Senior,1.0,Onsite,1.6,3.01,False,False
+E0020,Engineering,Mid,4.0,Onsite,3.07,3.72,False,False
+E0021,Engineering,Mid,8.7,Hybrid,2.78,4.85,False,False
+E0022,Engineering,Junior,3.4,Remote,4.76,2.95,False,False
+E0023,Engineering,Manager,2.0,Remote,2.14,2.91,False,True
+E0024,Engineering,Senior,2.1,Hybrid,2.35,3.28,False,False
+E0025,Engineering,Senior,8.2,Hybrid,4.39,3.89,False,False
+E0026,Engineering,Junior,0.2,Remote,4.59,2.8,False,False
+E0027,Engineering,Mid,15.2,Remote,2.9,2.76,True,False
+E0028,Engineering,Junior,0.4,Onsite,2.99,3.94,True,False
+E0029,Engineering,Junior,2.6,Hybrid,3.99,3.47,False,False
+E0030,Engineering,Mid,1.2,Remote,1.64,1.77,False,True
+E0031,Engineering,Mid,4.9,Onsite,2.01,2.34,False,False
+E0032,Engineering,Manager,5.5,Hybrid,3.28,4.25,False,False
+E0033,Engineering,Junior,3.8,Remote,4.74,3.48,False,False
+E0034,Engineering,Junior,3.0,Remote,3.15,2.67,False,False
+E0035,Engineering,Mid,0.6,Remote,3.58,3.08,False,False
+E0036,Engineering,Junior,2.4,Hybrid,4.41,3.21,False,False
+E0037,Engineering,Junior,2.9,Onsite,5.0,3.72,False,False
+E0038,Engineering,Mid,1.2,Onsite,3.04,2.25,False,False
+E0039,Engineering,Junior,4.2,Hybrid,3.49,2.61,False,False
+E0040,Engineering,Mid,3.8,Hybrid,4.96,3.39,False,False
+E0041,Engineering,Junior,2.6,Hybrid,2.28,3.13,False,False
+E0042,Engineering,Senior,3.3,Hybrid,4.32,3.6,False,False
+E0043,Engineering,Mid,2.5,Hybrid,2.69,2.34,False,False
+E0044,Engineering,Junior,0.6,Hybrid,3.58,3.45,False,False
+E0045,Engineering,Senior,4.7,Onsite,3.31,3.96,False,False
+E0046,Engineering,Senior,4.1,Onsite,2.73,3.54,False,False
+E0047,Engineering,Junior,1.0,Onsite,2.71,3.3,False,False
+E0048,Engineering,Junior,4.3,Onsite,3.72,3.13,False,False
+E0049,Engineering,Mid,4.4,Remote,4.3,2.62,False,False
+E0050,Engineering,Junior,4.4,Hybrid,3.4,3.15,False,False
+E0051,Engineering,Junior,5.9,Onsite,3.56,4.08,False,False
+E0052,Engineering,Junior,7.7,Hybrid,3.96,3.12,False,False
+E0053,Engineering,Senior,2.3,Hybrid,2.72,2.58,False,False
+E0054,Engineering,Mid,5.8,Onsite,4.09,2.86,False,False
+E0055,Engineering,Mid,2.3,Onsite,4.16,3.34,False,False
+E0056,Engineering,Senior,4.2,Onsite,5.0,2.94,False,False
+E0057,Engineering,Mid,6.4,Hybrid,3.2,3.54,True,False
+E0058,Engineering,Mid,1.6,Onsite,3.13,3.57,False,False
+E0059,Engineering,Junior,0.2,Onsite,4.12,3.82,False,False
+E0060,Engineering,Junior,1.5,Onsite,4.16,4.2,False,False
+E0061,Engineering,Mid,7.1,Hybrid,3.07,3.9,False,False
+E0062,Engineering,Mid,1.3,Onsite,3.18,2.55,False,False
+E0063,Engineering,Mid,6.8,Remote,3.93,2.57,False,False
+E0064,Engineering,Mid,1.5,Onsite,2.84,3.15,False,False
+E0065,Engineering,Mid,2.8,Hybrid,3.17,2.88,False,False
+E0066,Engineering,Mid,3.3,Hybrid,3.57,2.4,False,False
+E0067,Engineering,Mid,1.3,Hybrid,4.3,2.89,True,False
+E0068,Engineering,Junior,2.8,Onsite,3.02,2.87,False,False
+E0069,Engineering,Junior,0.7,Remote,2.03,2.73,True,False
+E0070,Engineering,Junior,2.5,Remote,1.97,2.98,False,True
+E0071,Engineering,Junior,3.1,Onsite,2.49,4.02,False,True
+E0072,Engineering,Junior,0.2,Onsite,2.45,3.34,False,False
+E0073,Engineering,Senior,1.5,Remote,3.38,4.93,False,False
+E0074,Engineering,Junior,4.1,Hybrid,2.55,3.32,False,True
+E0075,Engineering,Junior,1.2,Onsite,2.94,3.0,False,False
+E0076,Engineering,Junior,4.6,Onsite,2.88,3.2,False,False
+E0077,Engineering,Junior,5.0,Hybrid,3.15,3.38,False,False
+E0078,Engineering,Mid,4.1,Hybrid,4.56,3.5,False,False
+E0079,Engineering,Mid,5.8,Hybrid,4.03,4.65,False,False
+E0080,Engineering,Senior,0.7,Remote,3.51,2.61,False,True
+E0081,Engineering,Mid,6.6,Hybrid,3.13,3.8,False,False
+E0082,Engineering,Junior,1.3,Onsite,3.15,3.35,False,True
+E0083,Engineering,Senior,3.6,Hybrid,3.76,2.1,False,False
+E0084,Engineering,Junior,10.5,Hybrid,3.97,3.74,False,False
+E0085,Engineering,Junior,2.5,Onsite,2.77,4.09,False,False
+E0086,Engineering,Junior,3.4,Onsite,3.53,2.6,False,False
+E0087,Engineering,Mid,1.3,Hybrid,1.87,3.19,False,False
+E0088,Engineering,Mid,10.4,Hybrid,3.67,1.99,True,False
+E0089,Engineering,Junior,1.5,Onsite,4.11,2.32,False,False
+E0090,Engineering,Mid,5.3,Hybrid,3.28,3.93,False,False
+E0091,Engineering,Junior,7.7,Hybrid,4.95,2.87,False,False
+E0092,Engineering,Mid,5.6,Hybrid,2.8,2.42,False,False
+E0093,Engineering,Junior,4.3,Hybrid,3.67,3.36,False,False
+E0094,Engineering,Junior,3.6,Remote,3.47,2.83,False,False
+E0095,Engineering,Junior,1.0,Hybrid,3.42,2.87,False,True
+E0096,Engineering,Mid,10.1,Onsite,3.41,3.72,False,False
+E0097,Engineering,Junior,4.0,Hybrid,3.59,2.39,False,False
+E0098,Engineering,Junior,3.4,Hybrid,4.18,2.57,False,False
+E0099,Engineering,Junior,1.2,Onsite,4.6,3.31,True,False
+E0100,Engineering,Manager,3.5,Onsite,3.5,3.88,False,False
+E0101,Engineering,Senior,3.2,Onsite,4.15,4.07,False,False
+E0102,Engineering,Mid,10.5,Hybrid,2.94,2.73,False,False
+E0103,Engineering,Junior,3.4,Hybrid,4.11,3.86,False,False
+E0104,Engineering,Manager,3.4,Onsite,2.89,2.65,False,False
+E0105,Engineering,Senior,1.2,Remote,4.37,4.48,False,False
+E0106,Engineering,Mid,1.8,Remote,5.0,2.41,False,False
+E0107,Engineering,Junior,4.8,Onsite,3.4,4.13,False,False
+E0108,Engineering,Junior,0.5,Remote,1.75,2.74,False,True
+E0109,Engineering,Junior,6.6,Onsite,3.06,4.61,False,False
+E0110,Engineering,Senior,6.7,Remote,4.49,3.61,False,False
+E0111,Engineering,Mid,1.6,Remote,3.94,2.49,False,False
+E0112,Engineering,Junior,4.3,Onsite,3.7,2.83,False,False
+E0113,Engineering,Junior,7.9,Hybrid,4.31,3.75,False,False
+E0114,Engineering,Mid,3.0,Remote,3.89,3.94,False,False
+E0115,Engineering,Junior,2.6,Remote,4.47,3.15,False,False
+E0116,Engineering,Senior,2.8,Remote,4.24,3.23,True,False
+E0117,Engineering,Mid,4.0,Hybrid,4.72,3.73,False,False
+E0118,Engineering,Mid,2.0,Onsite,3.79,3.29,False,False
+E0119,Engineering,Junior,2.4,Remote,4.22,2.29,False,False
+E0120,Engineering,Mid,4.1,Hybrid,3.25,2.63,False,False
+E0121,Engineering,Mid,2.2,Hybrid,3.02,3.36,False,True
+E0122,Engineering,Mid,1.1,Hybrid,4.87,4.05,False,True
+E0123,Engineering,Junior,0.5,Hybrid,3.67,4.33,False,False
+E0124,Engineering,Junior,3.4,Onsite,4.14,3.75,False,False
+E0125,Engineering,Junior,7.6,Hybrid,3.6,3.4,False,False
+E0126,Engineering,Mid,4.5,Onsite,3.03,3.72,False,False
+E0127,Engineering,Junior,1.2,Hybrid,3.51,2.73,False,False
+E0128,Engineering,Junior,1.7,Remote,4.65,3.09,False,False
+E0129,Engineering,Junior,2.6,Hybrid,3.94,2.62,False,False
+E0130,Engineering,Mid,10.7,Hybrid,2.13,2.33,False,False
+E0131,Engineering,Junior,11.1,Onsite,3.33,3.43,False,False
+E0132,Engineering,Senior,10.2,Remote,4.93,3.33,False,False
+E0133,Engineering,Mid,3.7,Hybrid,3.33,3.68,False,True
+E0134,Engineering,Junior,20.0,Hybrid,2.06,3.58,False,False
+E0135,Engineering,Mid,1.8,Onsite,5.0,3.37,True,False
+E0136,Engineering,Junior,2.5,Onsite,4.05,3.59,False,False
+E0137,Engineering,Manager,6.3,Hybrid,3.44,3.17,False,False
+E0138,Engineering,Mid,4.1,Remote,3.2,3.49,False,False
+E0139,Engineering,Senior,4.3,Hybrid,4.37,2.69,False,False
+E0140,Engineering,Junior,1.4,Onsite,3.07,3.46,True,False
+E0141,Engineering,Mid,3.2,Remote,4.42,3.67,False,False
+E0142,Engineering,Mid,1.8,Hybrid,3.93,2.73,False,False
+E0143,Engineering,Senior,0.9,Remote,3.7,3.24,False,False
+E0144,Engineering,Mid,2.0,Onsite,3.62,2.76,False,False
+E0145,Engineering,Mid,4.1,Hybrid,3.36,2.83,False,False
+E0146,Engineering,Junior,5.6,Remote,4.34,2.41,False,False
+E0147,Engineering,Junior,0.4,Onsite,2.81,4.09,False,False
+E0148,Engineering,Mid,3.3,Hybrid,2.2,3.95,False,False
+E0149,Engineering,Junior,3.1,Remote,3.99,3.58,True,False
+E0150,Engineering,Junior,4.0,Onsite,4.0,4.58,False,True
+E0151,Engineering,Senior,1.2,Onsite,3.88,3.07,False,False
+E0152,Engineering,Senior,1.2,Hybrid,3.83,5.0,False,False
+E0153,Engineering,Junior,7.7,Onsite,3.24,3.04,False,False
+E0154,Engineering,Mid,1.6,Onsite,4.13,3.38,False,False
+E0155,Engineering,Junior,2.4,Hybrid,3.46,2.92,False,False
+E0156,Engineering,Mid,2.6,Hybrid,3.11,3.46,False,False
+E0157,Engineering,Junior,1.9,Onsite,3.25,3.78,True,False
+E0158,Engineering,Mid,4.7,Onsite,5.0,3.12,False,False
+E0159,Engineering,Mid,4.4,Remote,2.11,4.44,False,True
+E0160,Engineering,Mid,3.0,Hybrid,3.9,3.37,False,False
+E0161,Engineering,Junior,2.0,Remote,2.16,3.39,True,False
+E0162,Engineering,Senior,2.8,Hybrid,3.41,2.56,False,True
+E0163,Engineering,Junior,3.5,Remote,3.15,3.49,False,False
+E0164,Engineering,Junior,1.7,Hybrid,1.83,3.11,False,False
+E0165,Engineering,Mid,5.0,Onsite,3.81,2.77,False,True
+E0166,Engineering,Junior,6.6,Remote,3.2,2.66,False,False
+E0167,Engineering,Senior,8.6,Hybrid,1.82,5.0,False,False
+E0168,Engineering,Senior,8.2,Onsite,4.17,3.02,False,False
+E0169,Engineering,Junior,2.6,Onsite,4.65,2.18,False,False
+E0170,Engineering,Manager,3.7,Hybrid,4.69,2.71,False,False
+E0171,Sales,Junior,2.9,Onsite,3.79,3.16,False,False
+E0172,Sales,Mid,2.9,Onsite,3.54,3.58,False,False
+E0173,Sales,Junior,2.8,Onsite,4.56,3.59,False,False
+E0174,Sales,Senior,3.3,Hybrid,4.85,3.67,False,False
+E0175,Sales,Junior,7.3,Hybrid,4.41,2.75,False,False
+E0176,Sales,Junior,4.2,Hybrid,2.75,3.44,False,False
+E0177,Sales,Junior,1.2,Onsite,3.66,2.59,False,False
+E0178,Sales,Manager,6.4,Onsite,3.85,2.77,False,False
+E0179,Sales,Senior,3.9,Hybrid,2.05,2.56,False,True
+E0180,Sales,Mid,4.8,Hybrid,3.88,2.37,False,False
+E0181,Sales,Senior,4.1,Hybrid,5.0,3.94,False,False
+E0182,Sales,Senior,4.3,Onsite,4.01,3.68,False,False
+E0183,Sales,Mid,4.4,Onsite,4.68,3.88,False,False
+E0184,Sales,Junior,0.6,Onsite,3.65,3.23,False,False
+E0185,Sales,Senior,4.7,Hybrid,3.44,3.74,False,False
+E0186,Sales,Mid,1.8,Hybrid,3.81,1.97,False,False
+E0187,Sales,Junior,2.2,Remote,2.85,3.8,True,False
+E0188,Sales,Junior,3.3,Hybrid,2.73,3.32,False,False
+E0189,Sales,Mid,9.5,Hybrid,4.51,3.64,False,False
+E0190,Sales,Junior,1.4,Hybrid,4.6,3.47,False,False
+E0191,Sales,Senior,3.2,Onsite,2.71,2.51,False,False
+E0192,Sales,Junior,2.7,Hybrid,4.27,2.15,False,False
+E0193,Sales,Junior,6.3,Onsite,3.43,2.7,False,False
+E0194,Sales,Senior,2.7,Hybrid,3.77,3.6,False,True
+E0195,Sales,Junior,3.9,Onsite,3.87,3.68,False,False
+E0196,Sales,Junior,1.4,Hybrid,4.3,2.24,False,False
+E0197,Sales,Mid,7.1,Remote,3.57,2.51,False,False
+E0198,Sales,Senior,0.9,Onsite,4.63,2.69,False,False
+E0199,Sales,Junior,4.7,Hybrid,3.75,2.95,False,False
+E0200,Sales,Junior,4.0,Hybrid,4.0,2.25,False,False
+E0201,Sales,Senior,4.4,Onsite,2.83,2.2,False,False
+E0202,Sales,Manager,0.9,Hybrid,5.0,2.62,False,False
+E0203,Sales,Mid,2.6,Hybrid,3.88,3.26,False,False
+E0204,Sales,Junior,6.1,Remote,4.07,2.37,False,False
+E0205,Sales,Junior,10.4,Remote,2.21,3.12,False,False
+E0206,Sales,Junior,3.1,Onsite,2.84,3.94,True,False
+E0207,Sales,Junior,5.7,Hybrid,4.49,2.29,False,False
+E0208,Sales,Mid,3.7,Hybrid,3.73,3.06,False,False
+E0209,Sales,Junior,3.2,Onsite,1.97,3.92,False,False
+E0210,Sales,Mid,2.4,Onsite,4.33,2.91,False,False
+E0211,Sales,Mid,3.3,Remote,3.06,2.8,False,False
+E0212,Sales,Mid,5.4,Onsite,4.63,4.01,False,False
+E0213,Sales,Junior,5.7,Hybrid,3.43,2.99,False,False
+E0214,Sales,Senior,1.1,Remote,3.66,3.97,False,False
+E0215,Sales,Mid,2.2,Onsite,4.44,3.5,False,False
+E0216,Sales,Mid,1.3,Hybrid,2.78,2.96,False,False
+E0217,Sales,Junior,3.5,Remote,2.71,3.54,False,False
+E0218,Sales,Junior,2.5,Hybrid,3.34,3.42,False,False
+E0219,Sales,Senior,4.3,Onsite,4.16,3.91,False,False
+E0220,Sales,Junior,4.5,Onsite,2.44,2.82,True,False
+E0221,Sales,Junior,0.3,Remote,2.17,3.23,True,False
+E0222,Sales,Mid,3.3,Onsite,4.16,3.16,False,False
+E0223,Sales,Mid,7.4,Hybrid,3.02,3.69,False,False
+E0224,Sales,Manager,2.2,Onsite,3.19,2.48,False,False
+E0225,Sales,Junior,2.1,Hybrid,2.01,3.91,False,True
+E0226,Sales,Senior,6.6,Remote,2.96,3.53,False,False
+E0227,Sales,Junior,5.9,Hybrid,3.49,2.28,False,False
+E0228,Sales,Mid,1.4,Remote,4.24,4.05,False,False
+E0229,Sales,Mid,5.5,Onsite,2.88,4.76,True,False
+E0230,Sales,Junior,1.7,Hybrid,4.83,3.9,False,False
+E0231,Sales,Junior,2.1,Remote,2.95,4.2,True,False
+E0232,Sales,Junior,1.4,Hybrid,2.95,3.26,False,False
+E0233,Sales,Manager,1.0,Onsite,4.73,2.04,False,False
+E0234,Sales,Mid,3.6,Remote,3.67,1.91,False,False
+E0235,Sales,Senior,0.9,Hybrid,3.06,3.38,False,False
+E0236,Sales,Senior,3.7,Hybrid,3.38,2.79,False,False
+E0237,Sales,Mid,3.6,Remote,4.58,2.56,False,False
+E0238,Sales,Senior,3.0,Onsite,4.67,3.16,False,False
+E0239,Sales,Junior,2.3,Onsite,2.85,3.63,False,True
+E0240,Sales,Junior,1.9,Onsite,3.47,2.18,False,False
+E0241,Sales,Senior,1.3,Hybrid,3.57,2.89,False,False
+E0242,Sales,Senior,8.6,Onsite,2.71,4.26,False,False
+E0243,Sales,Junior,2.9,Hybrid,3.46,2.45,False,False
+E0244,Sales,Mid,2.8,Onsite,3.5,3.81,False,False
+E0245,Sales,Mid,1.5,Hybrid,4.41,2.86,False,False
+E0246,Sales,Senior,8.0,Onsite,4.47,3.58,False,False
+E0247,Sales,Mid,2.0,Hybrid,3.24,3.97,False,False
+E0248,Sales,Junior,4.0,Onsite,3.33,3.72,False,False
+E0249,Sales,Junior,4.6,Hybrid,4.03,3.84,False,True
+E0250,Sales,Junior,3.6,Hybrid,3.03,2.39,False,False
+E0251,Sales,Mid,0.9,Hybrid,3.97,3.98,False,False
+E0252,Sales,Senior,5.3,Remote,3.43,2.6,False,False
+E0253,Sales,Mid,2.0,Hybrid,2.72,3.38,False,False
+E0254,Sales,Junior,5.8,Onsite,2.73,3.38,False,False
+E0255,Sales,Junior,3.2,Remote,4.66,3.54,False,False
+E0256,Sales,Mid,4.8,Onsite,3.37,3.44,False,False
+E0257,Sales,Senior,7.7,Onsite,4.81,2.61,False,False
+E0258,Sales,Junior,5.2,Hybrid,3.09,2.26,False,False
+E0259,Sales,Junior,4.9,Onsite,3.73,3.81,False,False
+E0260,Sales,Mid,5.5,Onsite,5.0,3.33,False,False
+E0261,Sales,Junior,1.7,Hybrid,2.65,4.0,True,False
+E0262,Sales,Senior,6.0,Onsite,1.98,3.17,False,False
+E0263,Sales,Junior,2.7,Remote,4.53,2.22,False,False
+E0264,Sales,Junior,2.8,Remote,2.84,3.88,True,False
+E0265,Sales,Senior,3.5,Hybrid,3.48,2.94,False,False
+E0266,Sales,Junior,2.5,Hybrid,3.03,3.44,False,False
+E0267,Sales,Junior,1.4,Hybrid,3.71,2.75,True,False
+E0268,Sales,Junior,3.3,Remote,2.74,4.35,False,False
+E0269,Sales,Junior,2.8,Onsite,3.36,2.59,False,False
+E0270,Sales,Junior,2.7,Onsite,3.86,2.96,False,False
+E0271,Sales,Junior,3.1,Hybrid,2.69,3.28,False,False
+E0272,Sales,Junior,0.3,Hybrid,2.94,2.44,False,False
+E0273,Sales,Junior,2.7,Onsite,3.22,3.43,False,False
+E0274,Sales,Mid,8.3,Hybrid,2.36,4.33,False,False
+E0275,Sales,Mid,7.9,Onsite,3.16,2.86,False,False
+E0276,Sales,Junior,3.4,Remote,3.6,3.48,False,False
+E0277,Sales,Junior,3.3,Onsite,3.18,1.28,False,False
+E0278,Sales,Mid,0.2,Onsite,3.28,3.17,False,False
+E0279,Sales,Senior,2.1,Onsite,3.48,2.98,False,False
+E0280,Sales,Senior,5.5,Onsite,2.98,2.63,False,False
+E0281,Sales,Junior,2.4,Onsite,4.05,3.96,False,False
+E0282,Sales,Junior,6.8,Onsite,4.65,2.97,False,False
+E0283,Sales,Junior,6.5,Onsite,3.13,3.08,False,False
+E0284,Sales,Junior,2.1,Onsite,3.89,2.94,False,False
+E0285,Sales,Mid,3.6,Hybrid,3.31,1.86,False,True
+E0286,Sales,Junior,8.8,Hybrid,3.79,2.41,False,False
+E0287,Sales,Junior,0.8,Onsite,4.75,3.87,False,False
+E0288,Sales,Junior,2.5,Onsite,3.91,1.72,False,False
+E0289,Sales,Mid,0.8,Onsite,2.08,2.66,False,True
+E0290,Sales,Junior,1.6,Onsite,3.86,2.92,False,False
+E0291,Sales,Senior,10.5,Onsite,4.49,4.42,False,False
+E0292,Sales,Junior,2.5,Hybrid,3.32,3.74,False,False
+E0293,Sales,Senior,0.4,Remote,4.3,2.81,False,False
+E0294,Sales,Junior,1.4,Remote,2.95,4.11,True,False
+E0295,Sales,Senior,0.7,Hybrid,2.31,2.68,False,True
+E0296,Sales,Senior,3.7,Hybrid,3.61,3.91,False,False
+E0297,Sales,Manager,4.5,Onsite,2.09,2.25,False,False
+E0298,Sales,Senior,6.1,Hybrid,3.31,3.95,False,False
+E0299,Sales,Senior,5.2,Hybrid,4.53,2.92,False,False
+E0300,Sales,Mid,0.9,Remote,1.97,2.48,False,False
+E0301,Operations,Senior,4.4,Remote,2.48,3.05,True,False
+E0302,Operations,Junior,3.0,Hybrid,2.67,3.39,False,False
+E0303,Operations,Mid,6.7,Hybrid,3.45,2.85,False,False
+E0304,Operations,Mid,5.7,Remote,3.21,3.59,False,True
+E0305,Operations,Senior,11.4,Onsite,4.62,2.79,False,False
+E0306,Operations,Mid,1.5,Remote,4.26,3.63,False,False
+E0307,Operations,Junior,1.3,Onsite,3.9,3.51,False,False
+E0308,Operations,Mid,2.2,Remote,3.62,3.16,False,False
+E0309,Operations,Junior,3.1,Hybrid,3.81,2.89,False,False
+E0310,Operations,Junior,1.9,Onsite,2.81,3.31,True,False
+E0311,Operations,Mid,1.5,Hybrid,4.19,3.59,False,False
+E0312,Operations,Junior,4.2,Onsite,2.61,4.64,False,False
+E0313,Operations,Junior,2.2,Hybrid,4.17,3.86,False,False
+E0314,Operations,Junior,1.8,Hybrid,4.45,3.88,False,False
+E0315,Operations,Junior,0.9,Hybrid,3.67,5.0,False,False
+E0316,Operations,Junior,0.2,Remote,3.36,3.56,False,False
+E0317,Operations,Junior,8.1,Onsite,3.82,3.54,False,False
+E0318,Operations,Mid,7.9,Onsite,1.21,3.69,True,False
+E0319,Operations,Junior,5.8,Hybrid,3.74,2.49,False,False
+E0320,Operations,Senior,4.9,Onsite,3.41,2.89,False,True
+E0321,Operations,Senior,2.1,Hybrid,3.46,2.85,False,False
+E0322,Operations,Mid,5.0,Onsite,4.07,3.65,False,False
+E0323,Operations,Junior,1.2,Hybrid,3.44,3.08,False,False
+E0324,Operations,Mid,3.6,Hybrid,2.59,3.3,False,False
+E0325,Operations,Senior,1.7,Remote,3.39,3.96,False,False
+E0326,Operations,Mid,5.0,Onsite,3.55,3.8,False,False
+E0327,Operations,Senior,9.2,Remote,3.59,3.09,False,False
+E0328,Operations,Mid,1.4,Hybrid,3.63,2.73,False,False
+E0329,Operations,Mid,2.1,Onsite,4.33,3.99,False,False
+E0330,Operations,Junior,3.5,Hybrid,2.63,3.74,False,False
+E0331,Operations,Mid,0.5,Hybrid,3.64,2.08,False,False
+E0332,Operations,Junior,0.7,Onsite,4.53,2.98,False,False
+E0333,Operations,Mid,9.0,Hybrid,2.11,3.32,False,False
+E0334,Operations,Senior,4.2,Onsite,3.64,3.75,False,False
+E0335,Operations,Junior,2.0,Hybrid,3.03,3.84,False,False
+E0336,Operations,Mid,3.2,Hybrid,3.2,3.4,False,False
+E0337,Operations,Junior,2.2,Hybrid,2.78,3.61,False,False
+E0338,Operations,Mid,3.6,Remote,3.36,3.24,False,False
+E0339,Operations,Junior,2.3,Onsite,4.97,2.73,False,False
+E0340,Operations,Senior,3.0,Remote,2.49,3.02,False,False
+E0341,Operations,Junior,5.4,Hybrid,2.56,3.21,False,False
+E0342,Operations,Manager,5.1,Remote,2.46,3.18,False,False
+E0343,Operations,Senior,8.7,Remote,4.88,1.88,False,False
+E0344,Operations,Mid,4.4,Onsite,3.13,2.92,True,False
+E0345,Operations,Senior,3.4,Hybrid,3.48,3.24,False,False
+E0346,Operations,Senior,9.5,Onsite,3.18,3.0,False,False
+E0347,Operations,Senior,2.8,Remote,2.74,3.03,False,False
+E0348,Operations,Junior,0.3,Hybrid,3.31,3.54,False,False
+E0349,Operations,Mid,5.8,Onsite,5.0,2.44,False,False
+E0350,Operations,Junior,4.0,Remote,4.61,2.06,False,False
+E0351,Operations,Mid,3.3,Onsite,2.82,2.96,False,False
+E0352,Operations,Junior,5.9,Hybrid,4.02,3.73,False,False
+E0353,Operations,Mid,2.3,Hybrid,2.83,4.38,True,False
+E0354,Operations,Mid,0.3,Onsite,2.08,3.75,False,False
+E0355,Operations,Mid,6.0,Hybrid,4.32,2.17,False,False
+E0356,Operations,Mid,1.9,Remote,4.43,3.04,False,False
+E0357,Operations,Mid,1.4,Onsite,4.34,3.38,False,False
+E0358,Operations,Senior,0.3,Hybrid,3.12,3.32,False,True
+E0359,Operations,Mid,5.7,Onsite,3.37,3.58,False,False
+E0360,Operations,Mid,0.2,Hybrid,4.1,2.56,False,False
+E0361,Operations,Senior,7.6,Onsite,3.81,3.25,False,False
+E0362,Operations,Junior,2.5,Remote,3.19,3.49,False,False
+E0363,Operations,Junior,5.9,Remote,2.2,3.78,True,False
+E0364,Operations,Junior,4.5,Onsite,3.59,2.64,False,False
+E0365,Operations,Mid,10.7,Onsite,4.36,2.96,False,False
+E0366,Operations,Junior,4.4,Hybrid,2.54,1.31,False,False
+E0367,Operations,Senior,7.4,Hybrid,4.01,2.76,False,False
+E0368,Operations,Mid,2.1,Hybrid,3.77,2.83,False,False
+E0369,Operations,Junior,0.7,Onsite,4.1,2.49,False,False
+E0370,Operations,Senior,6.5,Onsite,4.2,3.32,False,False
+E0371,Operations,Mid,0.7,Remote,2.94,3.16,False,True
+E0372,Operations,Junior,5.6,Hybrid,2.21,1.62,False,False
+E0373,Operations,Junior,1.3,Remote,3.07,3.35,False,False
+E0374,Operations,Junior,4.1,Hybrid,4.21,2.55,False,False
+E0375,Operations,Junior,10.8,Remote,3.07,3.54,False,False
+E0376,Operations,Junior,5.3,Onsite,2.94,2.3,False,False
+E0377,Operations,Senior,2.8,Onsite,2.04,3.22,False,True
+E0378,Operations,Junior,4.6,Remote,4.9,3.0,True,False
+E0379,Operations,Junior,2.1,Remote,4.16,3.41,False,True
+E0380,Operations,Mid,13.6,Onsite,4.12,3.29,False,False
+E0381,Operations,Mid,1.8,Hybrid,4.27,3.02,False,False
+E0382,Operations,Senior,3.1,Hybrid,3.96,2.12,False,False
+E0383,Operations,Senior,5.0,Hybrid,3.3,2.17,False,False
+E0384,Operations,Mid,4.3,Onsite,3.37,2.79,False,False
+E0385,Operations,Junior,4.7,Remote,3.16,3.19,False,True
+E0386,Operations,Manager,2.2,Onsite,5.0,2.77,False,False
+E0387,Operations,Mid,2.7,Hybrid,3.94,3.64,False,False
+E0388,Operations,Manager,6.3,Onsite,3.13,3.0,False,False
+E0389,Operations,Junior,6.1,Onsite,3.87,2.52,False,False
+E0390,Operations,Senior,4.4,Hybrid,2.69,3.01,False,False
+E0391,Operations,Mid,8.1,Onsite,4.7,3.36,False,False
+E0392,Operations,Junior,6.5,Hybrid,2.97,3.43,False,False
+E0393,Operations,Mid,6.0,Onsite,3.9,4.51,False,False
+E0394,Operations,Mid,0.7,Remote,4.35,2.73,False,False
+E0395,Operations,Junior,4.4,Hybrid,3.81,3.15,False,False
+E0396,Operations,Mid,3.8,Remote,3.58,3.5,False,False
+E0397,Operations,Senior,8.8,Onsite,3.51,3.18,False,False
+E0398,Operations,Junior,2.9,Onsite,3.45,2.85,False,False
+E0399,Operations,Mid,3.6,Hybrid,3.04,2.12,False,False
+E0400,Operations,Junior,1.2,Hybrid,3.14,2.84,False,False
+E0401,Operations,Junior,1.5,Onsite,4.68,2.45,False,False
+E0402,Operations,Senior,8.8,Onsite,3.41,1.99,True,False
+E0403,Operations,Senior,4.7,Hybrid,2.87,2.64,False,False
+E0404,Operations,Junior,10.8,Onsite,3.09,2.47,False,False
+E0405,Operations,Manager,2.9,Hybrid,4.38,3.61,False,False
+E0406,Operations,Senior,0.9,Onsite,4.04,3.62,False,False
+E0407,Operations,Junior,2.6,Onsite,3.95,2.57,True,False
+E0408,Operations,Senior,2.2,Hybrid,3.29,3.02,False,False
+E0409,Operations,Junior,5.5,Hybrid,3.96,1.9,False,False
+E0410,Operations,Manager,5.3,Onsite,2.99,2.85,False,False
+E0411,Customer Support,Mid,4.8,Hybrid,3.29,3.48,False,False
+E0412,Customer Support,Mid,13.0,Hybrid,4.28,3.78,False,False
+E0413,Customer Support,Junior,7.8,Hybrid,4.2,2.7,False,True
+E0414,Customer Support,Senior,1.6,Hybrid,2.71,3.94,False,False
+E0415,Customer Support,Junior,6.6,Remote,2.82,2.14,False,False
+E0416,Customer Support,Junior,3.4,Hybrid,3.59,2.33,False,False
+E0417,Customer Support,Junior,2.8,Remote,4.88,3.7,False,False
+E0418,Customer Support,Senior,8.4,Hybrid,1.97,4.37,False,False
+E0419,Customer Support,Junior,1.5,Onsite,3.72,3.55,False,False
+E0420,Customer Support,Senior,6.3,Hybrid,2.4,3.17,False,False
+E0421,Customer Support,Mid,5.7,Hybrid,2.99,1.66,False,False
+E0422,Customer Support,Junior,1.5,Remote,3.21,1.78,False,False
+E0423,Customer Support,Junior,0.6,Hybrid,3.16,3.29,False,False
+E0424,Customer Support,Junior,3.1,Onsite,3.07,2.95,False,False
+E0425,Customer Support,Mid,7.1,Hybrid,3.51,2.43,False,False
+E0426,Customer Support,Senior,4.4,Onsite,3.07,3.25,False,False
+E0427,Customer Support,Junior,8.6,Hybrid,2.33,3.28,False,False
+E0428,Customer Support,Senior,4.1,Hybrid,4.12,3.86,False,False
+E0429,Customer Support,Junior,9.0,Hybrid,4.1,3.3,False,False
+E0430,Customer Support,Senior,2.0,Remote,4.17,4.06,False,False
+E0431,Customer Support,Senior,4.8,Hybrid,2.27,3.21,False,False
+E0432,Customer Support,Senior,2.4,Hybrid,3.74,3.12,False,False
+E0433,Customer Support,Mid,3.0,Hybrid,4.04,3.95,False,False
+E0434,Customer Support,Senior,3.6,Remote,2.68,2.52,False,False
+E0435,Customer Support,Junior,4.3,Remote,3.51,5.0,False,False
+E0436,Customer Support,Junior,1.8,Onsite,3.41,3.46,False,False
+E0437,Customer Support,Junior,4.7,Hybrid,4.97,3.47,False,False
+E0438,Customer Support,Mid,3.4,Onsite,5.0,3.57,False,False
+E0439,Customer Support,Mid,0.9,Remote,2.17,4.51,True,False
+E0440,Customer Support,Mid,0.5,Hybrid,5.0,3.75,False,False
+E0441,Customer Support,Senior,7.2,Hybrid,2.77,2.08,False,False
+E0442,Customer Support,Junior,2.9,Onsite,4.28,4.18,False,False
+E0443,Customer Support,Mid,0.8,Onsite,4.28,2.96,False,False
+E0444,Customer Support,Junior,10.0,Hybrid,2.7,3.28,False,False
+E0445,Customer Support,Junior,5.0,Onsite,3.89,2.3,False,False
+E0446,Customer Support,Mid,4.3,Onsite,3.41,3.57,False,False
+E0447,Customer Support,Manager,1.6,Remote,3.94,2.74,False,False
+E0448,Customer Support,Mid,0.9,Hybrid,3.68,3.27,False,False
+E0449,Customer Support,Junior,3.8,Onsite,4.46,3.0,False,False
+E0450,Customer Support,Mid,3.3,Onsite,3.56,4.55,False,False
+E0451,Customer Support,Junior,1.3,Remote,3.37,4.59,True,False
+E0452,Customer Support,Senior,1.2,Hybrid,4.38,3.23,False,False
+E0453,Customer Support,Mid,1.2,Hybrid,3.96,3.24,True,False
+E0454,Customer Support,Junior,1.1,Onsite,4.09,2.94,True,False
+E0455,Customer Support,Junior,2.0,Onsite,2.97,3.97,True,False
+E0456,Customer Support,Junior,4.3,Onsite,2.66,2.97,False,False
+E0457,Customer Support,Manager,4.8,Hybrid,3.05,2.91,False,False
+E0458,Customer Support,Mid,3.2,Onsite,3.0,3.89,False,False
+E0459,Customer Support,Senior,3.7,Onsite,4.13,2.82,False,False
+E0460,Customer Support,Mid,5.0,Hybrid,4.28,3.17,False,False
+E0461,Customer Support,Mid,0.4,Remote,3.38,2.09,True,False
+E0462,Customer Support,Junior,3.9,Hybrid,4.64,3.69,False,False
+E0463,Customer Support,Senior,8.0,Hybrid,4.59,4.56,False,False
+E0464,Customer Support,Junior,2.9,Hybrid,3.69,3.7,False,False
+E0465,Customer Support,Mid,7.0,Hybrid,2.84,4.22,False,False
+E0466,Customer Support,Mid,2.9,Onsite,4.76,2.61,False,False
+E0467,Customer Support,Mid,5.2,Hybrid,3.45,3.37,False,False
+E0468,Customer Support,Senior,4.2,Hybrid,3.6,2.54,False,False
+E0469,Customer Support,Junior,1.1,Hybrid,3.23,3.04,False,False
+E0470,Customer Support,Mid,1.4,Remote,2.79,3.74,False,False
+E0471,Customer Support,Junior,9.0,Remote,2.33,3.27,False,False
+E0472,Customer Support,Mid,6.0,Onsite,4.01,2.21,False,False
+E0473,Customer Support,Junior,3.1,Hybrid,2.87,2.28,False,False
+E0474,Customer Support,Junior,2.8,Onsite,5.0,2.23,False,False
+E0475,Customer Support,Junior,1.7,Hybrid,2.63,3.54,False,True
+E0476,Customer Support,Junior,4.5,Onsite,2.49,4.64,False,True
+E0477,Customer Support,Junior,1.8,Onsite,3.91,4.15,False,False
+E0478,Customer Support,Mid,2.5,Hybrid,4.72,1.87,False,False
+E0479,Customer Support,Mid,2.0,Hybrid,3.55,4.19,False,False
+E0480,Customer Support,Junior,5.7,Remote,3.96,3.86,False,False
+E0481,Customer Support,Junior,3.0,Onsite,2.03,2.12,False,True
+E0482,Customer Support,Junior,3.7,Onsite,2.96,2.99,True,False
+E0483,Customer Support,Mid,1.2,Hybrid,2.64,3.97,False,False
+E0484,Customer Support,Junior,1.9,Onsite,1.98,3.59,False,True
+E0485,Customer Support,Junior,3.8,Onsite,3.59,2.28,False,False
+E0486,Customer Support,Junior,0.7,Remote,1.71,3.63,False,True
+E0487,Customer Support,Mid,2.8,Onsite,2.44,1.7,True,False
+E0488,Customer Support,Junior,3.3,Onsite,3.07,3.04,False,False
+E0489,Customer Support,Mid,1.0,Hybrid,2.83,4.0,False,False
+E0490,Customer Support,Mid,6.8,Hybrid,3.82,3.21,False,False
+E0491,Customer Support,Mid,4.3,Hybrid,3.74,2.85,False,False
+E0492,Customer Support,Mid,3.0,Hybrid,4.22,3.82,False,False
+E0493,Customer Support,Mid,1.8,Remote,4.1,3.88,False,False
+E0494,Customer Support,Junior,0.7,Onsite,4.41,4.12,False,False
+E0495,Customer Support,Senior,6.4,Hybrid,3.5,3.81,False,False
+E0496,Customer Support,Mid,2.3,Hybrid,3.74,3.96,False,False
+E0497,Customer Support,Junior,0.9,Remote,3.91,3.71,False,False
+E0498,Customer Support,Mid,1.8,Hybrid,3.61,3.39,False,False
+E0499,Customer Support,Junior,4.6,Hybrid,3.18,3.26,False,False
+E0500,Customer Support,Mid,4.0,Onsite,3.23,3.03,True,False
+E0501,Finance & HR,Mid,1.3,Onsite,2.85,2.35,False,False
+E0502,Finance & HR,Senior,7.2,Onsite,3.84,2.53,False,False
+E0503,Finance & HR,Senior,0.8,Hybrid,3.42,3.0,False,False
+E0504,Finance & HR,Mid,8.2,Onsite,2.97,3.37,False,False
+E0505,Finance & HR,Mid,3.9,Hybrid,2.97,4.21,False,False
+E0506,Finance & HR,Senior,2.4,Onsite,2.53,3.17,False,False
+E0507,Finance & HR,Junior,2.7,Remote,4.28,3.9,False,False
+E0508,Finance & HR,Senior,3.5,Remote,3.56,3.96,False,False
+E0509,Finance & HR,Mid,4.9,Onsite,2.81,3.04,True,False
+E0510,Finance & HR,Junior,0.5,Onsite,4.15,3.62,False,False
+E0511,Finance & HR,Junior,1.7,Onsite,3.05,3.03,False,False
+E0512,Finance & HR,Senior,3.5,Remote,2.37,4.13,False,True
+E0513,Finance & HR,Junior,7.4,Onsite,4.32,3.65,False,False
+E0514,Finance & HR,Junior,7.2,Hybrid,3.07,2.37,False,True
+E0515,Finance & HR,Junior,9.4,Hybrid,3.17,3.31,False,False
+E0516,Finance & HR,Junior,7.0,Hybrid,3.53,4.35,False,False
+E0517,Finance & HR,Junior,1.6,Hybrid,4.41,3.07,False,False
+E0518,Finance & HR,Mid,3.3,Hybrid,3.52,3.51,False,False
+E0519,Finance & HR,Junior,7.0,Remote,2.54,3.58,False,False
+E0520,Finance & HR,Senior,6.5,Onsite,3.94,2.47,False,False
+E0521,Finance & HR,Senior,2.8,Remote,3.11,3.56,False,False
+E0522,Finance & HR,Junior,4.8,Onsite,5.0,2.22,False,False
+E0523,Finance & HR,Junior,2.3,Hybrid,3.5,2.76,False,False
+E0524,Finance & HR,Mid,0.8,Remote,1.71,3.95,False,True
+E0525,Finance & HR,Junior,3.0,Hybrid,3.79,3.45,False,False
+E0526,Finance & HR,Junior,2.9,Hybrid,5.0,2.99,False,False
+E0527,Finance & HR,Manager,2.2,Onsite,4.76,3.51,False,False
+E0528,Finance & HR,Manager,4.9,Hybrid,4.96,3.16,False,False
+E0529,Finance & HR,Senior,2.8,Hybrid,2.68,3.21,False,False
+E0530,Finance & HR,Junior,4.4,Hybrid,4.23,3.66,False,False
+E0531,Finance & HR,Mid,5.7,Hybrid,2.92,2.69,False,False
+E0532,Finance & HR,Mid,14.1,Onsite,3.68,3.23,False,False
+E0533,Finance & HR,Junior,3.1,Onsite,2.48,2.98,False,False
+E0534,Finance & HR,Mid,7.5,Onsite,2.98,2.09,False,False
+E0535,Finance & HR,Junior,3.9,Hybrid,2.96,2.56,False,False
+E0536,Finance & HR,Junior,4.1,Onsite,4.22,4.3,False,False
+E0537,Finance & HR,Mid,3.1,Remote,4.14,3.47,False,False
+E0538,Finance & HR,Junior,3.7,Hybrid,3.72,2.27,True,False
+E0539,Finance & HR,Junior,2.8,Onsite,2.42,2.12,False,False
+E0540,Finance & HR,Senior,6.6,Hybrid,3.25,3.12,False,False
+E0541,Finance & HR,Manager,1.8,Remote,2.9,4.29,False,False
+E0542,Finance & HR,Mid,0.8,Onsite,4.2,3.07,False,False
+E0543,Finance & HR,Senior,2.1,Onsite,4.44,4.11,False,False
+E0544,Finance & HR,Manager,1.9,Onsite,4.35,3.45,False,False
+E0545,Finance & HR,Junior,2.1,Onsite,2.9,3.53,True,False
+E0546,Finance & HR,Junior,3.0,Hybrid,1.31,2.26,True,False
+E0547,Finance & HR,Junior,2.1,Remote,2.09,3.86,False,True
+E0548,Finance & HR,Junior,2.9,Onsite,4.64,2.97,False,False
+E0549,Finance & HR,Mid,2.1,Hybrid,3.18,3.8,False,False
+E0550,Finance & HR,Junior,4.5,Onsite,2.9,2.63,False,False
+E0551,Marketing,Mid,14.0,Hybrid,4.81,3.32,False,False
+E0552,Marketing,Junior,3.9,Hybrid,4.51,3.45,False,False
+E0553,Marketing,Junior,2.2,Hybrid,3.52,3.09,False,False
+E0554,Marketing,Senior,0.2,Onsite,3.27,3.48,False,False
+E0555,Marketing,Junior,11.1,Hybrid,3.39,3.01,False,False
+E0556,Marketing,Junior,4.1,Remote,3.68,2.75,False,False
+E0557,Marketing,Junior,2.9,Onsite,4.78,4.32,False,False
+E0558,Marketing,Mid,0.2,Onsite,3.84,3.93,False,True
+E0559,Marketing,Mid,3.0,Onsite,4.08,2.67,False,False
+E0560,Marketing,Mid,3.7,Hybrid,4.44,3.6,False,False
+E0561,Marketing,Junior,2.1,Hybrid,2.56,2.68,False,True
+E0562,Marketing,Junior,0.9,Hybrid,4.1,2.37,False,False
+E0563,Marketing,Senior,0.9,Hybrid,3.26,3.92,False,False
+E0564,Marketing,Mid,11.2,Remote,1.49,2.01,False,False
+E0565,Marketing,Mid,3.6,Remote,1.8,3.85,False,True
+E0566,Marketing,Mid,2.1,Onsite,2.69,3.02,True,False
+E0567,Marketing,Mid,3.4,Hybrid,3.92,3.05,False,False
+E0568,Marketing,Junior,3.3,Onsite,3.59,3.49,False,False
+E0569,Marketing,Junior,0.8,Onsite,3.65,3.61,False,False
+E0570,Marketing,Mid,6.3,Remote,5.0,2.62,False,False
+E0571,Marketing,Junior,2.9,Hybrid,2.48,3.7,False,False
+E0572,Marketing,Senior,3.6,Remote,3.48,3.28,False,False
+E0573,Marketing,Mid,8.8,Hybrid,3.74,2.32,False,False
+E0574,Marketing,Mid,1.0,Hybrid,2.91,3.08,False,False
+E0575,Marketing,Senior,1.7,Hybrid,3.52,4.17,False,False
+E0576,Marketing,Mid,4.2,Onsite,2.22,4.37,False,False
+E0577,Marketing,Senior,6.2,Onsite,4.63,3.7,False,False
+E0578,Marketing,Mid,2.0,Hybrid,2.95,2.37,False,False
+E0579,Marketing,Senior,2.1,Onsite,5.0,3.54,False,False
+E0580,Marketing,Junior,5.2,Remote,3.47,3.8,False,False
+E0581,Marketing,Mid,13.3,Onsite,4.32,3.71,False,False
+E0582,Marketing,Mid,3.5,Onsite,3.46,3.75,False,False
+E0583,Marketing,Junior,1.7,Hybrid,3.48,3.45,False,False
+E0584,Marketing,Junior,1.3,Onsite,3.03,3.15,False,False
+E0585,Marketing,Senior,3.0,Remote,3.6,2.77,False,False
+E0586,Marketing,Mid,6.0,Hybrid,3.75,1.87,False,False
+E0587,Marketing,Junior,17.1,Onsite,2.87,3.44,False,False
+E0588,Marketing,Junior,2.6,Hybrid,3.4,3.33,False,False
+E0589,Marketing,Junior,3.5,Hybrid,3.01,3.59,True,False
+E0590,Marketing,Junior,10.0,Hybrid,5.0,2.26,False,False
+E0591,Marketing,Senior,4.2,Remote,3.43,3.65,False,True
+E0592,Marketing,Junior,3.9,Hybrid,4.74,4.64,False,False
+E0593,Marketing,Junior,8.7,Hybrid,3.34,3.25,False,False
+E0594,Marketing,Mid,3.6,Onsite,3.71,3.16,False,False
+E0595,Marketing,Junior,1.4,Hybrid,2.44,3.42,False,False
+E0596,Marketing,Junior,7.5,Remote,3.14,4.62,False,False
+E0597,Marketing,Mid,0.7,Hybrid,3.67,2.48,False,False
+E0598,Marketing,Mid,6.7,Hybrid,4.77,3.34,False,False
+E0599,Marketing,Manager,3.3,Hybrid,3.68,2.64,False,False
+E0600,Marketing,Mid,2.6,Hybrid,4.61,2.82,False,False

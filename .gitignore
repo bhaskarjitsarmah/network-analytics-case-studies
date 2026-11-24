@@ -1,0 +1,10 @@
+# Ignore everything except the two refactored projects and their data
+*
+!.gitignore
+!network_analytics_for_portfolio_construction_refactored.ipynb
+!network_analytics_for_hr_attrition.ipynb
+!snp500_price_data_2011_to_2020.csv
+!snp500_price_data_2021.csv
+!sp500_index_2021.csv
+!hr_employees.csv
+!hr_interactions.csv
